@@ -1,0 +1,4 @@
+# Base de dados
+*.csv
+*xlsx
+*.txt
