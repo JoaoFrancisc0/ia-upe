@@ -1,0 +1,16 @@
+[Q088] Algum médico já lhe deu o diagnóstico de DORT? 
+[Q084] O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? 
+[Q079] Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? 
+[P044] Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada) 
+[C006] Sexo
+[C008] Idade do morador na data de referência
+[E001] Na semana de___ a___ (semana de referência), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em dinheiro
+[VDE001] Condição em relação à força de trabalho na semana de referência para pessoas de 14 anos ou mais de idade
+[E033] . Na semana de___a___ (semana de referência), ___ qual foi o total de horas que dedicou às atividades de cuidados de pessoas e/ou afazeres domésticos? 
+[M01601] Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos
+[P034] Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? 
+[P042] Nas suas atividades habituais (tais como ir a algum curso, escola ou clube ou levar alguém a algum curso, escola ou clube), quantos dias por semana o(a) Sr(a) faz alguma atividade que envolva deslocamento a pé ou bicicleta? (Exceto o trabalho)
+[J00101] Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como é o estado de saúde de _____________? 
+[J002]  Nas duas últimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos etc.) por motivo da própria saúde
+[P00104] "Peso - Final (em kg) (3 inteiros e 1 casa decimal)"
+[P00404] "Altura - Final (em cm) (3 inteiros)"
